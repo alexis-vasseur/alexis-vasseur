@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexis-vasseur&&show_icons=true&count_private=true&theme=tokyonight" style="margin: 1em"/>
-    <br>
-    <!-- <img alt="Top Used Languages" style="margin: auto 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis-vasseur&langs_count=10"> -->
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexis-vasseur/alexis-vasseur/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexis-vasseur/alexis-vasseur/blob/output/github-contribution-grid-snake.svg" />
